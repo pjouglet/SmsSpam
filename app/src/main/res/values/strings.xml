@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Smsspam</string>
+    <string name="action_settings">Settings</string>
+    <string name="choose_contact">Choose contact to spam</string>
+    <string name="text_to_send">Your message</string>
+    <string name="number_to_send">Nbr : </string>
+    <string name="spam">Spam !</string>
+</resources>
